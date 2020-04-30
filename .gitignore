@@ -8,3 +8,5 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+/data/pmweb-5aa3d9098ad8.json
+.idea
